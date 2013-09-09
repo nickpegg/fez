@@ -10,7 +10,7 @@ it and I don't regret getting it. The core game doesn't require you solve any
 hard puzzles, but if you want to get all of the collectibles, there's some 
 insane puzzles in your way.
 
-* Trailer: http://vimeo.com/20813069
+* Trailer: http://vimeo.com/40269839
 * Wikipedia Article: http://en.wikipedia.org/wiki/Fez_(video_game)
 
 ## WARNING
